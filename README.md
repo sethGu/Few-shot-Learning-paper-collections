@@ -2,7 +2,8 @@
 Paper collections of Few-shot Learning after year 2020, with the criteria of CCF-A or some top-ranked CCF-B.
 持续更新中   
 *author: 顾峻铨*
-## 
+## license
+**GNU General Public License v3.0**
 
 ## Overview Table
 
